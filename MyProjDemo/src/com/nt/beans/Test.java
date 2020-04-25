@@ -7,6 +7,7 @@ public class Test {
 		
 System.out.println("vivek");
 System.out.println("vikash");
+System.out.println("aman");
 	}
 
 }
